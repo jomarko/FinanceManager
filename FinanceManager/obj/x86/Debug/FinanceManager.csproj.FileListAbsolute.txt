@@ -1,0 +1,12 @@
+C:\Users\Jozefovovic\MUNI\4.semester\PB069\FinanceManager\FinanceManager\bin\Debug\FinanceManager.exe
+C:\Users\Jozefovovic\MUNI\4.semester\PB069\FinanceManager\FinanceManager\bin\Debug\FinanceManager.pdb
+C:\Users\Jozefovovic\MUNI\4.semester\PB069\FinanceManager\FinanceManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jozefovovic\MUNI\4.semester\PB069\FinanceManager\FinanceManager\obj\x86\Debug\FinanceManager.MainWindow.resources
+C:\Users\Jozefovovic\MUNI\4.semester\PB069\FinanceManager\FinanceManager\obj\x86\Debug\FinanceManager.Properties.Resources.resources
+C:\Users\Jozefovovic\MUNI\4.semester\PB069\FinanceManager\FinanceManager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jozefovovic\MUNI\4.semester\PB069\FinanceManager\FinanceManager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jozefovovic\MUNI\4.semester\PB069\FinanceManager\FinanceManager\obj\x86\Debug\FinanceManager.exe
+C:\Users\Jozefovovic\MUNI\4.semester\PB069\FinanceManager\FinanceManager\obj\x86\Debug\FinanceManager.pdb
+C:\Users\Jozefovovic\MUNI\4.semester\PB069\FinanceManager\FinanceManager\obj\x86\Debug\FinanceManager.FilterWindow.resources
+C:\Users\Jozefovovic\MUNI\4.semester\PB069\FinanceManager\FinanceManager\obj\x86\Debug\FinanceManager.ItemWindow.resources
+C:\Users\Jozefovovic\MUNI\4.semester\PB069\FinanceManager\FinanceManager\obj\x86\Debug\FinanceManager.GraphWindow.resources
